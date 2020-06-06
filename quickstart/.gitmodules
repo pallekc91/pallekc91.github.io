@@ -1,0 +1,9 @@
+[submodule "themes/timer"]
+	path = themes/timer
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "themes/solar"]
+	path = themes/solar
+	url = https://github.com/bake/solar-theme-hugo.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git

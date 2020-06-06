@@ -1,0 +1,4 @@
+baseURL = "./"
+languageCode = "en-us"
+title = "Krishna Palle"
+theme = "anatole"
